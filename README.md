@@ -1,1 +1,1 @@
-# Deep_learning_UCS761
+Deep Learning Assignments
